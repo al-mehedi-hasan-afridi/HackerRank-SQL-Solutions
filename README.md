@@ -1,4 +1,4 @@
-# <span style="font-size: 4em; font-weight: bold;">[HackerRank profile](https://www.hackerrank.com/profile/aalmehedihasan)</span><img src="![green](https://github.com/user-attachments/assets/7f9d6040-085b-481d-9927-ef1717c978ae)" height="50px" width="50px"/>
+# <span style="font-size: 6em; font-weight: bold;">[HackerRank](https://www.hackerrank.com/profile/aalmehedihasan)</span>
 
 ## Solutions to HackerRank SQL challenges
 
