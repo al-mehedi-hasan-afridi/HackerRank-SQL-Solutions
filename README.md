@@ -1,4 +1,4 @@
-# <span style="font-size: 4em; font-weight: bold;">HackerRank</span><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="50px" width="50px"/>
+# [<span style="font-size: 4em; font-weight: bold;">HackerRank</span>](https://www.hackerrank.com/domains/tutorials/10-days-of-sql)<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="50px" width="50px"/>
 
 ## Solutions to HackerRank challenges
 
@@ -19,4 +19,4 @@ I have used MySQL for the solutions. There are almost always multiple solutions 
 
 ---
 
-Feel free to explore my solutions and check out my HackerRank profile.
+Feel free to explore my solutions and check out my [HackerRank profile](https://www.hackerrank.com/profile/aalmehedihasan).
