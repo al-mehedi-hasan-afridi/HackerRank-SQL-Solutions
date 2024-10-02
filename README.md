@@ -2,7 +2,9 @@
 
 ## Solutions to HackerRank challenges
 
-This repository is a collection of updated solutions to SQL challenges on [HackerRank](https://www.hackerrank.com/profile/aalmehedihasan).
+This repository is a collection of updated solutions to SQL challenges on [HackerRank](https://www.hackerrank.com/domains/sql).
+
+---
 
 ### SQL
 I have used MySQL and MS SQL Server for the solutions. These are not the only solutions. There are almost always multiple solutions to the same problem.
