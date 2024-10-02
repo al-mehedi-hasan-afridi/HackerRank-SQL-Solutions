@@ -9,7 +9,6 @@ This repository is a collection of updated solutions to SQL challenges on [Hacke
 I have used MySQL and MS SQL Server for the solutions. These are not the only solutions. There are almost always multiple solutions to the same problem.
 
 ## Certificates
----
 
 ### SQL Basic Certificate
 ![SQL(basic) Certificate by HackerRank](https://github.com/user-attachments/assets/eb369c28-66d2-4bba-9a23-445423154ccf)
