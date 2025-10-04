@@ -16,6 +16,9 @@ I have used MySQL and MS SQL Server for the solutions. These are not the only so
 ### SQL Intermediate Certificate
 ![SQL (Intermediate) Certificate by HackerRank](https://github.com/user-attachments/assets/b8ee4c8f-00b1-457a-8392-43185b07da92)
 
+### SQL Advanced Certificate
+<img width="977" height="726" alt="Image" src="https://github.com/user-attachments/assets/f9964cff-56fd-4abf-be68-c1c9c590a017" />
+
 ---
 
 Feel free to explore my solutions and check out my [HackerRank profile](https://www.hackerrank.com/profile/aalmehedihasan).
